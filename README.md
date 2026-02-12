@@ -15,31 +15,31 @@ The project is deployed as an interactive Streamlit web app that also generates 
 
 # Machine Learning Workflow
 
-✅ Data preprocessing (handling categorical values)
-✅ Feature encoding (Gender, Married, Property Area, etc.)
-✅ Model training using Scikit-learn
-✅ Model saved as .pkl file
-✅ Model loaded into Streamlit app for real-time prediction
+✅ Data preprocessing (handling categorical values) <br>
+✅ Feature encoding (Gender, Married, Property Area, etc.) <br>
+✅ Model training using Scikit-learn <br>
+✅ Model saved as .pkl file <br>
+✅ Model loaded into Streamlit app for real-time prediction <br>
 
 # Tech Stack
 
-✅ Python
-✅ Streamlit
-✅ NumPy
-✅ Pandas
-✅ Scikit-learn
-✅ Seaborn
-✅ Pickle
+✅ Python <br>
+✅ Streamlit<br>
+✅ NumPy <br>
+✅ Pandas <br>
+✅ Scikit-learn <br>
+✅ Seaborn <br>
+✅ Pickle <br>
 
 # 📂 Project Structure
 
-📁 Loan-Prediction-Project/
-│── app.py
-│── model.ipynb
-│── dataset.csv
-│── loan_model.pkl
-│── requirements.txt
-│── README.md
+📁 Loan-Prediction-Project/ <br>
+│── app.py <br>
+│── model.ipynb <br>
+│── dataset.csv <br>
+│── loan_model.pkl <br>
+│── requirements.txt <br>
+│── README.md <br>
 
 # How It Works
 
@@ -52,8 +52,14 @@ The project is deployed as an interactive Streamlit web app that also generates 
 
 # Future Improvements
 
-✨ Add model accuracy + evaluation metrics in UI
-✨ Add feature scaling and pipelines
-✨ Deploy online using Streamlit Cloud / Render
-✨ Add more models & compare results
-✨ Improve UI design with charts and insight
+✨ Add model accuracy + evaluation metrics in UI <br>
+✨ Add feature scaling and pipelines <br>
+✨ Deploy online using Streamlit Cloud / Render <br>
+✨ Add more models & compare results <br>
+✨ Improve UI design with charts and insight <br>
+
+# Developed By
+
+### Prarthana S
+📧 Email: prarthanas0308@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/prarthanas03/
