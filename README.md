@@ -61,5 +61,5 @@ The project is deployed as an interactive Streamlit web app that also generates 
 # Developed By
 
 ### Prarthana S
-📧 Email: prarthanas0308@gmail.com
+📧 Email: prarthanas0308@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/prarthanas03/
