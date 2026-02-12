@@ -6,12 +6,12 @@ The project is deployed as an interactive Streamlit web app that also generates 
 
 # Features
 
-✅ Predict loan approval instantly
-✅ User-friendly Streamlit UI
-✅ Encodes categorical inputs automatically
-✅ Generates a Mini Loan Statement
-✅ Download statement as .txt file
-✅ Clean UI with footer & profile links
+✅ Predict loan approval instantly <br>
+✅ User-friendly Streamlit UI <br>
+✅ Encodes categorical inputs automatically <br>
+✅ Generates a Mini Loan Statement <br>
+✅ Download statement as .txt file <br>
+✅ Clean UI with footer & profile links <br>
 
 # Machine Learning Workflow
 
